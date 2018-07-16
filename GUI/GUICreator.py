@@ -6,3 +6,4 @@ def GUIStarter():
 
 
 GUIStarter().go()
+print("Test COmmit")
