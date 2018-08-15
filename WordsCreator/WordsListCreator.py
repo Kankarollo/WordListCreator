@@ -1,5 +1,5 @@
-from math import factorial
 import itertools
+
 
 class WordsListCreator(object):
     def __init__(self, _length, _words, _charactersArray, _repeatedLetters):
